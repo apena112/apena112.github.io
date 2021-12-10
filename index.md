@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### My Creative Works
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -19,9 +19,9 @@
 
 ### Category Name 2
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
+- [Project 1 Title](Cat galaxy effect.jpg)
+- [Project 2 Title](Screenshot 2021-12-10 11.03.48 AM.png)
+- [Project 3 Title](Screenshot 2021-12-10 11.04.04 AM.png)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
 
